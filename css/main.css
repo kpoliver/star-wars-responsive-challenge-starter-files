@@ -1,0 +1,10 @@
+nav {
+    background-color: darkgoldenrod;
+    margin-bottom: 25px;
+}
+img {
+    width: 100%;
+}
+section figure {
+    border: 1px lightgray solid;
+}
